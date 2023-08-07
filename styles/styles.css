@@ -327,7 +327,10 @@ section {
   width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .mongodb {
-  width: 70%;
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .postgresql {
+  width: 50%;
 }
 
 .stat-title {
